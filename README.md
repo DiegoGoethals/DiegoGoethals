@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on everything that has to do with web develoment or Java/Python
 - 📫 How to reach me: goethalsdiego@gmail.com
-- My website is [https://www.diegogoethals.be/](https://diegoat-portfolio-e2exgxcgesgfcng3.germanywestcentral-01.azurewebsites.net/)
+- My website is [https://www.diegogoethals.be/]
 
 <!---
 DiegoGoethals/DiegoGoethals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
